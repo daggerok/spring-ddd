@@ -1,0 +1,16 @@
+= spring-ddd
+////
+image:https://travis-ci.org/daggerok/spring-ddd.svg?branch=master["Build Status", link="https://travis-ci.org/daggerok/spring-ddd"]
+////
+
+_One more spring DDD app (could be clone of link:https://github.com/daggerok/ddd[GitHub: daggerok/ddd])_
+
+[source, bash]
+----
+./mvnw -U
+----
+
+- see link:https://www.youtube.com/watch?v=r7AGQsM7ncA[YouTube: State or Events? Which Shall I Keep? - Jakub Pilimon, Kenny Bastani]
+- also read: link:https://pysaumont.github.io/2016/07/06/Folding-the-Universe-part-I-I-I-Java-8-List-and-Stream.html[Folding the Universe]
+- and this: link:https://www.quora.com/Why-doesnt-Java-8-have-functions-like-foldLeft-and-scanleft[Why doesn't Java 8 have functions like foldLeft and scanleft?]
+- vavr: link:https://www.vavr.io/vavr-docs/#_state_of_the_collections[vavr.io reference]
