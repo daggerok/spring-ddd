@@ -23,6 +23,7 @@
     <module>parent</module>
     <module>app</module>
     <module>app-with-cqrs</module>
+    <module>app-with-repository</module>
   </modules>
 
   <build>
